@@ -1,0 +1,98 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DieCutLabel Version="8.0" Units="twips">
+	<PaperOrientation>Landscape</PaperOrientation>
+	<Id>NameBadgeCard</Id>
+	<PaperName>30856 Badge Card Label - offset</PaperName>
+	<DrawCommands>
+		<Path>
+			<FillMode>EvenOdd</FillMode>
+			<Line X1="3509" Y1="0" X2="3509" Y2="6000" />
+			<LineTo X="517" Y="6000" />
+			<Arc CenterX="432" CenterY="6000" Radius="85" StartAngle="0" EndAngle="90" />
+			<LineTo X="0" Y="5915" />
+			<LineTo X="0" Y="85" />
+			<LineTo X="432" Y="85" />
+			<Arc CenterX="432" CenterY="0" Radius="85" StartAngle="-90" EndAngle="0" />
+			<LineTo X="3509" Y="0" />
+			<RoundRectangle X="2969" Y="2640" Width="180" Height="720" Rx="120" Ry="120" />
+		</Path>
+	</DrawCommands>
+	<ObjectInfo>
+		<TextObject>
+			<Name>Tardy_Pass_Titles</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName></LinkedObjectName>
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<VerticalAlignment>Middle</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String>Tardy Pass</String>
+					<Attributes>
+						<Font Family="Arial" Size="72" Bold="True" Italic="False" Underline="True" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+					</Attributes>
+				</Element>
+			</StyledText>
+		</TextObject>
+		<Bounds X="450" Y="300" Width="5212" Height="1140" />
+	</ObjectInfo>
+	<ObjectInfo>
+		<TextObject>
+			<Name>Nametxt</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName></LinkedObjectName>
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<VerticalAlignment>Middle</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String>Zachary Starkey</String>
+					<Attributes>
+						<Font Family="Times New Roman" Size="72" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+					</Attributes>
+				</Element>
+			</StyledText>
+		</TextObject>
+		<Bounds X="562" Y="1455" Width="4950" Height="870" />
+	</ObjectInfo>
+	<ObjectInfo>
+		<TextObject>
+			<Name>Timetxt</Name>
+			<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+			<BackColor Alpha="0" Red="255" Green="255" Blue="255" />
+			<LinkedObjectName></LinkedObjectName>
+			<Rotation>Rotation0</Rotation>
+			<IsMirrored>False</IsMirrored>
+			<IsVariable>False</IsVariable>
+			<HorizontalAlignment>Center</HorizontalAlignment>
+			<VerticalAlignment>Middle</VerticalAlignment>
+			<TextFitMode>ShrinkToFit</TextFitMode>
+			<UseFullFontHeight>True</UseFullFontHeight>
+			<Verticalized>False</Verticalized>
+			<StyledText>
+				<Element>
+					<String>6/7/2021 08:49 PM</String>
+					<Attributes>
+						<Font Family="Arial" Size="28" Bold="False" Italic="False" Underline="False" Strikeout="False" />
+						<ForeColor Alpha="255" Red="0" Green="0" Blue="0" />
+					</Attributes>
+				</Element>
+			</StyledText>
+		</TextObject>
+		<Bounds X="510" Y="2620.52000427246" Width="5040" Height="720" />
+	</ObjectInfo>
+</DieCutLabel>
