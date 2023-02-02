@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Student Tardy Tracker Program", "Student Tardy Tracker Program.vbproj", "{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+		Student_Login|Any CPU = Student_Login|Any CPU
+		Student_Login|x64 = Student_Login|x64
+		Student_Login|x86 = Student_Login|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Debug|x64.ActiveCfg = Debug|x64
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Debug|x64.Build.0 = Debug|x64
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Debug|x86.ActiveCfg = Debug|x86
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Debug|x86.Build.0 = Debug|x86
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Release|x64.ActiveCfg = Release|x64
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Release|x64.Build.0 = Release|x64
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Release|x86.ActiveCfg = Release|x86
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Release|x86.Build.0 = Release|x86
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Student_Login|Any CPU.ActiveCfg = Student_Login|Any CPU
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Student_Login|Any CPU.Build.0 = Student_Login|Any CPU
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Student_Login|x64.ActiveCfg = Student_Login|x64
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Student_Login|x64.Build.0 = Student_Login|x64
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Student_Login|x86.ActiveCfg = Student_Login|x86
+		{F9615E6D-BD4B-4BF5-88D2-909B6E26A9C1}.Student_Login|x86.Build.0 = Student_Login|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3A3440DC-1378-4216-81E8-CCD05FE59413}
+	EndGlobalSection
+EndGlobal
